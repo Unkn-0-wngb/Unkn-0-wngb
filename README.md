@@ -56,7 +56,7 @@ Whether it’s building tools, experimenting with automation, or exploring new l
 
 - **Discord:** `.unkn0wngb`  
 - **Steam:** [Unkn0wngb](https://steamcommunity.com/id/Unkn0wngb)  
-- **Telegram:** [@unkn_0_wngb](https://t.me/unkn_0_wngb)  
+- **Telegram:** [unkn_0_wngb](https://t.me/unkn_0_wngb)  
 - **TikTok:** [Lavery.Jonez](https://www.tiktok.com/@lavery.jonez?lang=en)  
 - **LinkedIn:** [Joshua Lavery-Jones](https://uk.linkedin.com/in/joshua-lavery-jones-8b4662333)  
 - **Email:** [unkn0wngb11620427@gmail.com](mailto:unkn0wngb11620427@gmail.com)
