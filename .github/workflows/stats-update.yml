@@ -1,0 +1,19 @@
+name: Update GitHub Stats Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once per day at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Regenerate GitHub Stats Cache
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=Unkn-0-wngb&count_private=true&show_icons=true&theme=radical" > /dev/null
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=Unkn-0-wngb&theme=radical" > /dev/null
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Unkn-0-wngb&layout=compact&theme=radical" > /dev/null
