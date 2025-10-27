@@ -12,7 +12,7 @@
 
 - 🖥️ **Operating Systems:**  
   - Expert in **Windows**  
-  - Advanced in **Linux** (~75%)  
+  - Advanced in **Linux** ( ~75% )  
   - Intermediate with **macOS**
 
 - 💻 **Languages & Technologies:**  
