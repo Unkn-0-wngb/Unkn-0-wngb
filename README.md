@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Joshua Lavery-Jones (aka **Unkn0wngb**)
+# 👋 Hi, I'm Joshua Lavery-Jones  
+### aka **Unkn0wngb**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Unkn-0-wngb&color=blueviolet)
 
-I’m a 16-year-old developer and tech enthusiast from **Argyll & Bute, Scotland**.  
-I code mainly for fun and to challenge myself, always pushing past my limits to learn new things and improve my skills.  
-Whether it’s building tools, experimenting with automation, or exploring new languages, I’m passionate about problem-solving through code.
+> 💡 Developer • Tech Enthusiast • Problem Solver  
+> 16 y/o from **Argyll & Bute, Scotland** — passionate about building, learning, and pushing limits through code.
 
 ---
 
@@ -12,8 +12,8 @@ Whether it’s building tools, experimenting with automation, or exploring new l
 
 - 🖥️ **Operating Systems:**  
   - Expert in **Windows**  
-  - Advanced in **Linux** (approx. 75% knowledge)  
-  - Intermediate with **macOS**  
+  - Advanced in **Linux** (~75%)  
+  - Intermediate with **macOS**
 
 - 💻 **Languages & Technologies:**  
   ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
@@ -30,7 +30,7 @@ Whether it’s building tools, experimenting with automation, or exploring new l
   ![Scratch](https://img.shields.io/badge/Scratch-FFAB19?logo=scratch&logoColor=white)
 
 - 🔧 **Other Skills:**  
-  Windows CMD, VBScript, JScript, API work, Virtual Basic Studio projects, and more.
+  CMD scripting, VBScript, JScript, API integration, Visual Basic projects, automation, and system tools.
 
 ---
 
@@ -40,7 +40,7 @@ Whether it’s building tools, experimenting with automation, or exploring new l
   - Campbeltown Grammar School  
   - UHI Argyll  
 
-- **Achieved so far:**  
+- **Achievements:**  
   - Nat.5 English, Nat.5 Maths Apps, Nat.4 Engineering (UHI), Nat.4 Business  
   - Nat.4 PE (Theory), Nat.5 Music Tech, Nat.4 Physics & Chemistry  
   - Nat.4 Spanish & French, Nat.4 Art, Nat.5 Computer Science & Computing  
@@ -72,30 +72,8 @@ Whether it’s building tools, experimenting with automation, or exploring new l
 
 ---
 
-## 📊 GitHub Stats
-
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unkn-0-wngb&show_icons=true&count_private=true&theme=radical)
-
----
-
-## 🔥 Streaks & Languages
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Unkn-0-wngb&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unkn-0-wngb&layout=compact&theme=radical)
-
----
-
-## 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 📌 Featured Projects
 
-### 🛠 Tools
+### 🛠 Tools  
 [**View Repository**](https://github.com/Unkn-0-wngb/Tools)  
 Collection of scripts and utilities for automation and experimentation.
-
----
