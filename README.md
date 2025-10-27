@@ -71,9 +71,3 @@
 - 🎮 Gaming and Exploring Virtual Worlds
 
 ---
-
-## 📌 Featured Projects
-
-### 🛠 Tools  
-[**View Repository**](https://github.com/Unkn-0-wngb/Tools)  
-Collection of scripts and utilities for automation and experimentation.
