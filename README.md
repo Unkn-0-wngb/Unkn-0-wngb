@@ -4,10 +4,8 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-laveryjonez.uk-e8376a?style=flat&logo=googlechrome&logoColor=white)](https://laveryjonez.uk)
 
-> **17 · Argyll & Bute, Scotland**
-> Student and creator who turns ideas into real things — websites, scripts, physical builds, whatever it takes.
+> Student and creator from Scotland who turns ideas into real things — websites, scripts, physical builds, whatever it takes.
 > Into web development, hardware, design, and anything that sits at the edge of tech and creativity.
-> I like figuring out how things work, and I like it even more when I can build something with what I've learned.
 
 ---
 
@@ -51,52 +49,25 @@ PC Building & Repair · Electrical Wiring · Circuit Building · Fabrication · 
 ## Education
 
 **Currently studying** at Campbeltown Grammar School & UHI Argyll
-- Higher English · Higher Applications of Mathematics · Higher Computer Science
+- Higher Computer Science · Higher Applications of Mathematics · Higher English
 - National 5 Engineering (UHI)
 
 **Achieved**
-- N5 — English · Applications of Maths · Music Technology · Computer Science
-- N4 — Engineering, Physics & Chemistry · Business & Management · Administration & IT · Art & PE
+- N5 — Computer Science · Music Technology · Applications of Maths · English
+- N4 — Engineering · Physics & Chemistry · Administration & IT · Business & Management
 
 ---
 
 ## Experience
 
 **Founder & Operator — Joshy Washy** *(2019 – early 2026)*
-Started my own car wash at 11, ran it every month for six years, then handed it off to my wee brother. Handled everything myself — the team, the website, bookings, advertising, customer service, and the money. Came runner-up in a Dragons' Den-style pitch through the Social Enterprise Academy.
-
-**Promoter & Distributor — Kilbrannan Sound** *(Feb 2024 – present)*
-Design and produce monthly event material that goes out to around 200 households in the village.
-
-**Property Caretaker — Local Airbnb** *(Oct 2022 – present)*
-Carry out checks between guest stays — trusted with the keys and expected to get it right.
-
-**Youth Volunteer — liveArgyll & Kintyre Youth Action Group** *(2022 – 2024)*
-Earned multiple Saltire Awards from the Scottish Government for logging over 20 hours of community volunteering, including the Challenge Award.
+Built and ran the website, booking system, and advertising for my own business from age 11. Managed everything end-to-end for six years before passing it on.
 
 ---
 
 ## Recognition
 
-🏆 **Social Enterprise Academy** — Pitched Joshy Washy in a Dragons' Den-style competition and came runner-up — at 11 years old.
-
-🎖️ **Saltire Awards** — Awarded by the Scottish Government for over 20 hours of community volunteering, earning the Challenge Award along the way.
-
 📋 **TechFest Blueprint Challenge** — Entered the 'A Future High Street' design competition (December 2023).
-
----
-
-## Army Cadet Force
-
-4 years' service · Lance Corporal (3-Star) for 2 years
-
-The cadets has genuinely shaped how I carry myself — the leadership, the discipline, the teamwork. Nothing else has taught me those things the same way.
-
-- Completed JCIC leadership course
-- First Aid (3-Star) & Skill-at-Arms (3-Star)
-- Duke of Edinburgh Bronze — in progress
-- Regular adventure training, camps & field exercises
-- Selected for Remembrance Day parades & church services
 
 ---
 
@@ -104,6 +75,5 @@ The cadets has genuinely shaped how I carry myself — the leadership, the disci
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/joshua-lavery-jones-8b4662333)
 [![TikTok](https://img.shields.io/badge/TikTok-000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@lavery.jonez)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61566072800171)
 [![Steam](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199067544848)
 [![Email](https://img.shields.io/badge/Email-e8376a?logo=gmail&logoColor=white)](mailto:joshua@laveryjonez.uk)
