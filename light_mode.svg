@@ -164,7 +164,7 @@
 <text x="576.0" y="70" class="tagline">Developer &amp; Fabricator — Argyll &amp; Bute, Scotland</text>
 <line x1="558.0" y1="84" x2="1058.0" y2="84" stroke="#e8376a" stroke-opacity="0.45" stroke-width="1.4"/>
 <text x="570.0" y="114" class="key">OS</text><text x="748.0" y="114" class="value">EndeavourOS, iOS</text>
-<text x="570.0" y="135" class="key">Uptime</text><text x="748.0" y="135" class="value">1 yr on GitHub</text>
+<text x="570.0" y="135" class="key">Uptime</text><text x="748.0" y="135" class="value">2 yrs on GitHub</text>
 <text x="570.0" y="156" class="key">Host</text><text x="748.0" y="156" class="value">Gigabyte H81M-DS2V (i7-4770)</text>
 <text x="570.0" y="177" class="key">Kernel</text><text x="748.0" y="177" class="value">ACF — Corporal (4 yrs service)</text>
 <text x="570.0" y="198" class="key">IDE</text><text x="748.0" y="198" class="value">VS Code</text>
