@@ -197,8 +197,8 @@
 <a href="https://uk.linkedin.com/in/joshua-lavery-jones-8b4662333" target="_blank" rel="noopener"><text x="844.0" y="716" class="key link">LinkedIn</text></a>
 <a href="https://www.facebook.com/profile.php?id=61566072800171" target="_blank" rel="noopener"><text x="844.0" y="735" class="key link">Facebook</text></a>
 <text x="558.0" y="787" class="section">GITHUB STATS</text><line x1="558.0" y1="795" x2="1058.0" y2="795" stroke="#2a2a2a" stroke-width="1"/>
-<text x="570.0" y="813" class="key">Repos</text><text x="648" y="813" class="statnum">11</text><text x="669" y="813" class="value" fill="#999999">{Contributed: 11}</text><text x="858.0" y="813" class="key">Stars</text><text x="908.0" y="813" class="statnum">7</text>
-<text x="570.0" y="834" class="key">Commits</text><text x="648.0" y="834" class="statnum">69</text><text x="858.0" y="834" class="key">Followers</text><text x="938.0" y="834" class="statnum">0</text>
+<text x="570.0" y="813" class="key">Repos</text><text x="648" y="813" class="statnum">13</text><text x="669" y="813" class="value" fill="#999999">{Contributed: 13}</text><text x="858.0" y="813" class="key">Stars</text><text x="908.0" y="813" class="statnum">7</text>
+<text x="570.0" y="834" class="key">Commits</text><text x="648.0" y="834" class="statnum">71</text><text x="858.0" y="834" class="key">Followers</text><text x="938.0" y="834" class="statnum">0</text>
 <text x="570.0" y="855" class="key">Lines of Code</text><text x="688" y="855" class="statnum">24,403</text><text x="736" y="855" class="add">++</text><text x="756" y="855" class="value">,</text><text x="768" y="855" class="statnum">14,025</text><text x="816" y="855" class="del">--</text>
 <text x="558.0" y="889" class="footer">generated automatically · refreshed daily</text>
 <rect class="border" x="0.75" y="0.75" width="1116" height="922" rx="13"/>
